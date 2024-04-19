@@ -33,14 +33,14 @@ void loop() {
   Serial.println(" cm");
 
   // Add motor control based on distance
-  if (distance < 30) { // Example condition, adjust as needed
+  if (distance < 30) { 
     // Motor control logic here
-    // digitalWrite(motorPin1, HIGH);
-    // digitalWrite(motorPin2, LOW);
+    digitalWrite(motorPin1, HIGH);
+    digitalWrite(motorPin2, LOW);
   } else {
     // Motor control logic here
-    // digitalWrite(motorPin1, LOW);
-    // digitalWrite(motorPin2, LOW);
+    digitalWrite(motorPin1, LOW);
+    digitalWrite(motorPin2, LOW);
   }
 
   delay(1000);
