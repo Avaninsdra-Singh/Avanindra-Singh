@@ -14,7 +14,7 @@
 
 - 🎓 Final-year **B.Tech in Computer Science and Engineering** at Bhilai Institute of Technology, Durg — Class of 2026
 - 🔭 Currently building a **College Mentorship Platform** connecting senior & junior students, with mentorship matchmaking and live/recorded lectures
-- 🤖 Built an AI-powered resume screener that pairs **Gemini API** evaluation with logic-based scoring for explainable feedback
+- 🤖 Built an AI-powered resume screener that pairs **LLM-based evaluation** with logic-based scoring for explainable feedback
 - 🚀 Open to **full-stack developer** roles
 - 🏆 First Rank, App & Website Making Competition — OPJU, Raigarh (2025)
 - ⚡ Fun fact: *(add a hobby or personal detail here — it makes the profile feel more like you!)*
@@ -40,7 +40,7 @@
 **Frameworks**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,18 +57,20 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [ATS Resume Expert](https://github.com/Avaninsdra-Singh/ATS_Resume_Expert-main)
-AI-powered resume analysis tool built with Streamlit. Integrates Google's Gemini API to evaluate resume-job description alignment through LLM-based analysis, combined with logic-based scoring for transparent, explainable feedback.
-**Tech:** Python · Streamlit · Gemini API
+A hybrid resume-evaluation tool that combines rule-based logic scoring with LLM-based AI analysis, with an explainability layer that shows where the two approaches agree or diverge.
+**Tech:** Python · React · Tailwind CSS
+
+### 🎬 [Netflix-Inspired Landing Page](https://github.com/Avaninsdra-Singh/NetFlix) · [Live Demo](https://netflix.avanindra-singh-007.workers.dev/)
+A fully responsive, Netflix-style landing page featuring a full-screen hero section, trending content carousel, and FAQ section.
+**Tech:** HTML · CSS
+
+### 🛍️ [Shopify-Inspired E-Commerce Landing Page](https://github.com/Avaninsdra-Singh/Project-1-E-commerce-Website) · [Live Demo](https://shopifycloneavanindra.avanindra-singh-007.workers.dev/)
+A polished storefront landing page with a bold hero section, feature cards, FAQ section, and animated brand promotions.
+**Tech:** HTML · CSS · JavaScript
 
 ### 🎥 [Video Thumbnail Card Creator](https://github.com/Avaninsdra-Singh/Video-Thumbnail-Card-Creator)
 Interactive tool that turns form input into YouTube-style thumbnail cards, with live image preview and automatic view/duration formatting — built with vanilla JS and the DOM API.
 **Tech:** HTML · CSS · JavaScript
-
-### 🎬 [Netflix-Inspired Landing Page](https://github.com/Avaninsdra-Singh/NetFlix)
-A fully responsive, Netflix-style landing page featuring a full-screen hero section, trending content carousel, and FAQ section.
-**Tech:** HTML · CSS
-
-📌 More projects — including a [Shopify-inspired e-commerce landing page](https://github.com/Avaninsdra-Singh/Project-1-E-commerce-Website) — are on [my repositories page](https://github.com/Avaninsdra-Singh?tab=repositories).
 
 ---
 
