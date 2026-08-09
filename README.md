@@ -67,7 +67,7 @@ A fully responsive, Netflix-style landing page featuring a full-screen hero sect
 A polished storefront landing page with a bold hero section, feature cards, FAQ section, and animated brand promotions.
 **Tech:** HTML · CSS · JavaScript
 
-### 🎥 [Video Thumbnail Card Creator](https://github.com/Avaninsdra-Singh/Video-Thumbnail-Card-Creator)
+### 🎥 [Video Thumbnail Card Creator](https://github.com/Avaninsdra-Singh/Video-Thumbnail-Card-Creator) · [Live Demo](https://video-thumbnail-card-creator.avanindra-singh-007.workers.dev/)
 An interactive tool that turns form input into YouTube-style thumbnail cards, with live image preview and automatic view/duration formatting — built with vanilla JS and the DOM API.
 **Tech:** HTML · CSS · JavaScript
 
