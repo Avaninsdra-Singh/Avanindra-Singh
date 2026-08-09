@@ -16,8 +16,7 @@
 - 🤖 Built an AI-powered resume screener that pairs **LLM-based evaluation** with logic-based scoring for explainable feedback
 - 🚀 Open to **full-stack developer** roles
 - 🏆 First Rank, App & Website Making Competition — OPJU, Raigarh (2025)
-- ⚡ Fun fact: *(add a hobby or personal detail here — it makes the profile feel more like you!)*
-
+- ⚡ Fun fact: I've been experimenting with AI-assisted content creation outside of coursework — always tinkering with a side project
 ---
 
 ## 🛠️ Tech Stack
